@@ -1,3 +1,4 @@
+//  Judy   5/3/2020
 public class Fibonacci{
 	public static int of(int i){
 		if(i == 1 || i == 2){
